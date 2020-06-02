@@ -1,42 +1,69 @@
 [{
-        "name": "Minimal1HQ",
+        "name": "Acid Ocean",
+        "author": "Hampus Olsson - MezzLasha",
+        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/AcidOcean.png?raw=true",
+        "downloadable": true,
+        "dimensions": "1080×2340"
+    },{
+        "name": "Minimal Origin",
         "author": "mezzlasha",
         "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/Minimal1.png?raw=true",
         "downloadable": true,
         "dimensions": "1080×2340"
     },
 	{
-        "name": "Minimal1Dark",
+        "name": "Minimal Darkness",
         "author": "mezzlasha",
         "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/minimalBlackGreylowres.png?raw=true",
         "downloadable": true,
         "dimensions": "720×1560"
     },
 	{
-        "name": "Minimal1Grey",
+        "name": "Minimal Light",
         "author": "mezzlasha",
         "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/minimalGreylowres.png?raw=true",
         "downloadable": true,
         "dimensions": "720×1560"
     },
 	{
-        "name": "ShapeShift1.0",
+        "name": "ShapeShift Classic",
         "author": "mezzlasha",
         "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/wall1.png?raw=true",
         "downloadable": true,
         "dimensions": "720×1560"
     },
 	{
-        "name": "ShapeShift2.0",
+        "name": "ShapeShift Vogue",
         "author": "mezzlasha",
         "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/wall2.png?raw=true",
         "downloadable": true,
         "dimensions": "1080×2340"
     },
 	{
-        "name": "ShapeShift2.0Light",
+        "name": "ShapeShift Vogue Light",
         "author": "mezzlasha",
         "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/wall3.png?raw=true",
+        "downloadable": true,
+        "dimensions": "1080×2340"
+    },
+	{
+        "name": "Electric Field",
+        "author": "Samer Zayer",
+        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/ElectricField.png?raw=true",
+        "downloadable": true,
+        "dimensions": "1080×2340"
+    },
+	{
+        "name": "Ruby",
+        "author": "Hampus Olsson",
+        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/Ruby.png?raw=true",
+        "downloadable": true,
+        "dimensions": "1080×2340"
+    },
+	{
+        "name": "Marble Volcano",
+        "author": "Hampus Olsson",
+        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/MarbleVolcano.png?raw=true",
         "downloadable": true,
         "dimensions": "1080×2340"
     }
