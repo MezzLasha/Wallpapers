@@ -20,6 +20,13 @@
         "downloadable": true,
         "dimensions": "1080×2340"
     },
+   {
+        "name": "PixelBoot",
+        "author": "KostyaJRZ",
+        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/PixelBoot.png?raw=true",
+        "downloadable": true,
+        "dimensions": "2160x4320"
+    },
     {
         "name": "Minimal Light",
         "author": "Mezzlasha",
