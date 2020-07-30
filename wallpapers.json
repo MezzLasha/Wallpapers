@@ -34,6 +34,20 @@
         "downloadable": true,
         "dimensions": "2160x4320"
     },
+   {
+        "name": "UrbanLights",
+        "author": "irvanmalik48",
+        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/20200730_143759.png?raw=true",
+        "downloadable": true,
+        "dimensions": "1632x3264"
+    },
+   {
+        "name": "VyperGreen",
+        "author": "irvanmalik48",
+        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/20200730_144032.png?raw=true",
+        "downloadable": true,
+        "dimensions": "1632x3264"
+    },
     {
         "name": "Minimal Light",
         "author": "Mezzlasha",
