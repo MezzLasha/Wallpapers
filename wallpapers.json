@@ -1,303 +1,51 @@
 [
     {
-        "name": "Pearlescent",
-        "author": "@n0white",
-        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/master/img/defaultwall.png",
+        "name": "Purple Planet",
+        "author": "Paweł Czerwiński",
+        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/master/img/wallpaper_0.jpg",
         "downloadable": true,
-        "dimensions": "1080×2340"
+        "dimensions": "1920x2880"
     },
     {
-        "name": "Nexus",
-        "author": "MezzLasha",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/Nexus.png?raw=true",
+        "name": "Dark Rose",
+        "author": "Paweł Czerwiński",
+        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/master/img/wallpaper_1.jpg",
         "downloadable": true,
-        "dimensions": "1080×2340"
+        "dimensions": "1920x2880"
     },
     {
-        "name": "Flower",
-        "author": "Google",
-        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/fe3195faabe5aeb7034b1f83797493fb474351f2/img/Flower.jpg",
+        "name": "Fairy Powder",
+        "author": "Paweł Czerwiński",
+        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/master/img/wallpaper_2.jpg",
         "downloadable": true,
-        "dimensions": "1080×2340"
+        "dimensions": "1920x2880"
     },
     {
-        "name": "Acid Ocean",
-        "author": "Hampus Olsson and MezzLasha",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/AcidOcean.png?raw=true",
+        "name": "Gatorade Energize",
+        "author": "Alexander Ant",
+        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/master/img/wallpaper_3.jpg",
         "downloadable": true,
-        "dimensions": "1080×2340"
+        "dimensions": "1920x2880"
     },
     {
-        "name": "Ruby",
-        "author": "Hampus Olsson",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/Ruby.png?raw=true",
+        "name": "Dark Orb",
+        "author": "Alexander Ant",
+        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/master/img/wallpaper_4.jpg",
         "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-   {
-        "name": "PixelBoot",
-        "author": "KostyaJRZ",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/PixelBoot.png?raw=true",
-        "downloadable": true,
-        "dimensions": "2160x4320"
-    },
-   {
-        "name": "UrbanLights",
-        "author": "irvanmalik48",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/20200730_143759.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1632x3264"
-    },
-   {
-        "name": "VyperGreen",
-        "author": "irvanmalik48",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/20200730_144032.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1632x3264"
+        "dimensions": "1920x2880"
     },
     {
-        "name": "Minimal Light",
-        "author": "Mezzlasha",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/minimalGreylowres.png?raw=true",
+        "name": "Raspberry Crush",
+        "author": "Solen Feyissa",
+        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/master/img/wallpaper_5.jpg",
         "downloadable": true,
-        "dimensions": "720×1560"
+        "dimensions": "1920x2880"
     },
     {
-        "name": "ShapeShift Vogue Light",
-        "author": "Mezzlasha",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/wall3.png?raw=true",
+        "name": "Alien Tentacles",
+        "author": "Solen Feyissa",
+        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/master/img/wallpaper_6.jpg",
         "downloadable": true,
-        "dimensions": "1080×2340"
+        "dimensions": "1920x2894"
     },
-    {
-        "name": "ShapeShift Classic",
-        "author": "Mezzlasha",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/wall1.png?raw=true",
-        "downloadable": true,
-        "dimensions": "720×1560"
-    },
-    {
-        "name": "Electric Field",
-        "author": "Samer Zayer",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/ElectricField.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Skateboard",
-        "author": "Google",
-        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/fe3195faabe5aeb7034b1f83797493fb474351f2/img/SkateBoard.jpg",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Snooker",
-        "author": "Google",
-        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/fe3195faabe5aeb7034b1f83797493fb474351f2/img/Snooker.jpg",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Bowling",
-        "author": "Google",
-        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/fe3195faabe5aeb7034b1f83797493fb474351f2/img/Bowling.jpg",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Basketball",
-        "author": "Google",
-        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/fe3195faabe5aeb7034b1f83797493fb474351f2/img/Basketball.jpg",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Guitar",
-        "author": "Google",
-        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/fe3195faabe5aeb7034b1f83797493fb474351f2/img/Guitar.jpg",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Pool",
-        "author": "Google",
-        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/fe3195faabe5aeb7034b1f83797493fb474351f2/img/Pool.jpg",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Minimal Origin",
-        "author": "Mezzlasha",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/Minimal1.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "ShapeShift Vogue",
-        "author": "Mezzlasha",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/wall2.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Doggie",
-        "author": "Google",
-        "url": "https://raw.githubusercontent.com/MezzLasha/Wallpapers/fe3195faabe5aeb7034b1f83797493fb474351f2/img/Doggo.jpg",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },	
-    {
-        "name": "Minimal Darkness",
-        "author": "Mezzlasha",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/minimalBlackGreylowres.png?raw=true",
-        "downloadable": true,
-        "dimensions": "720×1560"
-    },
-    {
-        "name": "Marble Volcano",
-        "author": "Hampus Olsson",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/MarbleVolcano.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Pixel Classic",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_01.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080x2160"
-    },
-    {
-        "name": "Pixel Alternate",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_02.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1441 x 3040"
-    },
-    {
-        "name": "Acid Pixel",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_03.png?raw=true",
-        "downloadable": true,
-        "dimensions": "2000 x 4097"
-    },
-    {
-        "name": "Baby Blue Pixel",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_04.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2280"
-    },
-    {
-        "name": "ExtendedReborn Pixel",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_05.png?raw=true",
-        "downloadable": true,
-        "dimensions": "2000 x 4097"
-    },
-    {
-        "name": "Orange Pixel",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_06.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1440 x 3040"
-    },
-    {
-        "name": "Clearly White Pixel",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_07.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1440 x 3040"
-    },
-    {
-        "name": "Dark Times",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_08.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "Bright Times",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_09.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "Petrol Corals",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_10.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "Clean Corals",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_11.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080×2340"
-    },
-    {
-        "name": "Crusty Pebbles",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_12.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "Perfect Pebbles",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_13.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "Cactivate",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_14.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "Cactivate Brightness",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_15.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "The Blue Planet",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_16.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "Flat Saturn",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_17.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "Salty Seas",
-        "author": "Google", 
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_18.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "At The Peak",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_19.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    },
-    {
-        "name": "Caverns",
-        "author": "Google",
-        "url": "https://github.com/MezzLasha/Wallpapers/blob/master/img/pixel2019_20.png?raw=true",
-        "downloadable": true,
-        "dimensions": "1080 x 2160"
-    }
 ]
